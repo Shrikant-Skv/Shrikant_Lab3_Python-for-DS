@@ -1,4 +1,4 @@
-## Supervised Learning Lab-3
+## Supervised Learning Lab-3 : Heart Disease Prediction
 
 ### Learning Outcomes:
 * Exploratory data analysis & preparing the data for model building.
