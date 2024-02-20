@@ -1,6 +1,6 @@
-##
+## Supervised Learning Lab-3
 
-### Learning Outcomes
+### Learning Outcomes:
 * Exploratory data analysis & preparing the data for model building.
 * Machine Learning - Supervised Learning Classification
   * Logistic Regression
